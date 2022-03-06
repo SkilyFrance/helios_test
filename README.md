@@ -11,6 +11,9 @@ J'espère que vous allez bien.
 - Pour le tester --> Appuyer sur le floating button de la home.
 - Afin de voir de résulat, vous pourrez décommenter le "print" dans le fichier ci-dessus.
 
+# Autre
+- Mise en place d'un linter _ **analysis_options.yaml**_.
+
 
 A très vite,
 Guillaume
