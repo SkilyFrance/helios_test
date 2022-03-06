@@ -5,12 +5,12 @@ J'espère que vous allez bien.
 
 **Q1**
 //
-Vous trouverez les fichiers principaux dans le dossier _ **home**_
-Vous trouverez les modèles de données dans le dossier_ **model**_
+Vous trouverez les fichiers principaux dans le dossier _ **home**_.
+Vous trouverez les modèles de données dans le dossier_ **model**_.
 //
 **Q2**
 //
-Vous trouverez le fichier contenant l'agorithme dans _**service/xspeedlt_algo.dart**_
+Vous trouverez le fichier contenant l'agorithme dans _**service/xspeedlt_algo.dart**_.
 Pour le tester --> Appuyer sur le floating button de la home.
 Afin de voir de résulat, vous pourrez décommenter le "print" dans le fichier ci-dessus.
 //
